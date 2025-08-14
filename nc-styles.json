@@ -36,11 +36,12 @@
   "Fantasy": "ethereal fantasy hyperdetailed mist Thomas Kinkade",
   "Gouache": "gouache detailed painting",
   "Matte": "detailed matte painting",
-  "Charcoal": "hyperdetailed charcoal drawing",
+  "Charcoal": "charcoal drawing",
   "Horror": "horror Gustave Doré Greg Rutkowski",
   "Surreal": "surrealism Salvador Dali matte background melting oil on canvas",
   "Steampunk": "steampunk engine",
   "Cyberpunk": "cyberpunk 2099 blade runner 2049 neon",
   "Synthwave": "synthwave neon retro",
-  "Heavenly": "heavenly sunshine beams divine bright soft focus holy in the clouds"
+  "Heavenly": "heavenly sunshine beams divine bright soft focus holy in the clouds",
+  "empty": ""
 }
